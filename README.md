@@ -262,7 +262,7 @@ If you use AraAugLLM in your research, please cite:
 @article{mars2026araugllm,
   title={{AraAugLLM}: Using {LLMs} for Text Generation and Evaluation in a Unified Text Augmentation Framework},
   author={Mars, Mourad},
-  journal={SCISC},
+  journal={xxxxx},
   year={2026},
   doi={xxx/xxxx}
 }
