@@ -212,9 +212,9 @@ where:
 
 | Dataset | Domain | Size | Classes Used | Source |
 |---------|--------|------|-------------|--------|
-| [HARD](https://huggingface.co/datasets/Elnagara/hard) | Hotel reviews | 93,700 | 2 (pos/neg) | Elnagar et al. 2018 |
-| [Emotone](https://github.com/amrmalkhatib/Emotional-Tone) | Tweet emotions | 10,000+ | 3 (of 8) | Al-Khatib & El-Beltagy 2017 |
-| [ArSAS](http://homepages.inf.ed.ac.uk/wmagdy/resources.htm) | Tweet sentiment | 21,000 | 3 (of 4) | AbdelRahim & Magdy 2018 |
+| [HARD](https://huggingface.co/datasets/Elnagara/hard) | Hotel reviews | 93,700 | 3 | Elnagar et al. 2018 |
+| [Emotone](https://github.com/amrmalkhatib/Emotional-Tone) | Tweet emotions | 10,000+ | 3 | Al-Khatib & El-Beltagy 2017 |
+| [ArSAS](http://homepages.inf.ed.ac.uk/wmagdy/resources.htm) | Tweet sentiment | 21,000 | 3 | AbdelRahim & Magdy 2018 |
 
 ## Reproducing Results
 
