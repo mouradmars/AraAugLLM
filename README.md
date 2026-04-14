@@ -2,7 +2,7 @@
 
 **Using LLMs for Text Generation and Evaluation in a Unified Text Augmentation Framework**
 
-[![Paper](https://img.shields.io/badge/Paper-Journal-2026-blue)](https://doi.org/xxx)
+[![Paper](https://img.shields.io/badge/Paper-Journal_2026-blue)](https://doi.org/xxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)]()
