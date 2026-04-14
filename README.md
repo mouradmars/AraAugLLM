@@ -10,7 +10,7 @@
 AraAugLLM is a unified text augmentation framework that combines **competitive multi-LLM generation** with an **LLM-as-a-Judge scoring mechanism** to produce high-quality synthetic training data for Arabic (and other low-resource language) classification tasks.
 
 <p align="center">
-  <img src="assets/araugllm_pipeline.png" alt="AraAugLLM Pipeline" width="800"/>
+  <img src="assets/araugllm_pipeline.png.png" alt="AraAugLLM Pipeline" width="800"/>
 </p>
 
 ---
